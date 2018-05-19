@@ -1,9 +1,13 @@
 ## 欢迎来到dkgee的个人博客
 
-You can use the [editor on GitHub](https://github.com/dkgee/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+关于我
+  小公司Java项目经理一枚，带团队、写代码、打打杂。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-简单进行自我介绍
+技术：
+
+长时间搞java相关的开发。Java, MyBatis, Spring MVC, Spring boot
+搞过一点点前端。Javascript, jQuery, vue
+ElasticSearch, Redis, Kafka
 
 ### Markdown
 
