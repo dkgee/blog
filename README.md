@@ -1,13 +1,3 @@
-## 欢迎来到dkgee的个人博客
-
-关于我
-  小公司Java项目经理一枚，带团队、写代码、打打杂。
-
-技术：
-
-长时间搞java相关的开发。Java, MyBatis, Spring MVC, Spring boot
-搞过一点点前端。Javascript, jQuery, vue
-ElasticSearch, Redis, Kafka
 
 ### Markdown
 
